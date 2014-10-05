@@ -2,6 +2,7 @@
 ###B00705014 資管四 徐育粮
 ##1. 執行環境
 	Mac OS X 10.9.5 with Python 2.7.5
+	
 
 ##2. 設計
 	import re
@@ -38,6 +39,9 @@
 3. 演算法設計：使用過去haskell的functional language經驗
 
 ##4. 執行結果
-![Alt text](screenshot.png)
+Information Retrieval Program Assignment 1 
+at [GitHub](https://github.com/iultimatez/IRPA1)
 
-	無執行過程，直接讀入檔案，處理後輸出
+	執行過程無顯示輸出，直接讀入檔案，處理後輸出至result.txt
+![Alt text](screenshot.png)
+![Alt text](result.png)
